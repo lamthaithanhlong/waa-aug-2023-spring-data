@@ -6,5 +6,7 @@ public class Product {
     private String price;
     private String rating;
 
-    
+    public Product(String name,String price,String rating) {
+
+    }
 }
